@@ -51,7 +51,7 @@ public class Wave {
 
 
         }
-        waveNumber++;
+        waveNumber++;/*123*/
     }
 
     public void update() {
